@@ -1,0 +1,3 @@
+[submodule "urls_finder_new"]
+	path = urls_finder_new
+	url = https://github.com/Andrey-Yakovtsev/Urls_finder
