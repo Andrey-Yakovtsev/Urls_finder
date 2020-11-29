@@ -1,0 +1,8 @@
+setup.py
+console_search.egg-info/PKG-INFO
+console_search.egg-info/SOURCES.txt
+console_search.egg-info/dependency_links.txt
+console_search.egg-info/top_level.txt
+urls_finder/__init__.py
+urls_finder/logic.py
+urls_finder/start.py
