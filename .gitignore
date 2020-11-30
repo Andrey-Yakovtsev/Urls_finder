@@ -1,0 +1,5 @@
+/build
+/console_search.egg-info
+/dist
+.gitmodules
+/urls_finder_new
